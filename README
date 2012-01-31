@@ -26,5 +26,5 @@ Now, vim and vimperator are modal programs and Opera, well, not so much. However
 As I mentioned earlier, hit-a-hint spacial navigation, which I can't live without, has been emulated using Javascript bound to the 'f' key for basic hints and ';' for extended hints.
 
  * Basic hints ('f') - Displays numbers next to each link. Type the number of link and press enter to go to that link. If the number you type has only one possible hint, that hint will be automatically chosen for you.
- 
+
  * Extended hint mode (';') - Displays numbers next to each link, and allows you to open multiple links at a time. Type in the numbers of the links you want to follow, separated by a comma, and press enter when you are done. Those links will open in new tabs.
